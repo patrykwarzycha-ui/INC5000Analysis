@@ -1,16 +1,16 @@
-INC 5000 Analysis
-1.Introduction
+#INC 5000 Analysis
+##1.Introduction
 Analysis of data from 5,012 companies featured in the INC 5000 ranking. The objective of this project was to clean and transform the dataset using Power Query, build an interactive dashboard in Microsoft Excel, and answer several business-oriented analytical questions.
 Dataset source: KajodaDataSpace
 Technologies used: Microsoft Excel, Power Query
-2.Analytical Questions
+##2.Analytical Questions
 1.	Which industries generate the highest average revenue?
 2.	Which industries dominate by company count?
 3.	Which industries record the highest average growth?
 4.	Which companies increased their workforce the most?
 5.	Which states have the highest concentration of INC 5000 companies?
 6.	How is total revenue distributed across U.S. states?
-3.Data Preparation
+##3.Data Preparation
 The dataset was imported into Power Query editor, where it was reviewed, cleaned, and prepared for further analysis. The preparation process included:
 ●	removing unnecessary columns,
 ●	promoting headers,
@@ -21,7 +21,7 @@ These are:
 ●	Employees Growth (yes/no) – indicates whether a company increased its workforce, 
 ●	Employees Added – shows the increase in the number of employees compared to the previous period,
 ●	Employees Growth % - displays the percentage increase in workforce.
-4.Key Insights
+##4.Key Insights
 ●	The Security industry generated the highest average revenue, followed by Health and Logistics & Transportation. The results indicate that these sectors achieved the strongest financial performance among the industries included in the INC 5000 dataset.
 ●	Business Products & Services had the highest number of companies. However, the difference between the first, second (Advertising & Marketing), and third (Software) industries was relatively small, with only 3 and 31 fewer companies, respectively. 
 ●	Logistics & Transportation is the leader of average percentage growth, followed by Customer Products & Services and Food & Beverage. 
