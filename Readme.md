@@ -1,8 +1,8 @@
 # INC 5000 Analysis
 ## 1.Introduction
 Analysis of data from 5,012 companies featured in the INC 5000 ranking. The objective of this project was to clean and transform the dataset using Power Query, build an interactive dashboard in Microsoft Excel, and answer several business-oriented analytical questions.
-Dataset source: KajodaDataSpace
-Technologies used: Microsoft Excel, Power Query
+### Dataset source: KajodaDataSpace
+### Technologies used: Microsoft Excel, Power Query
 ## 2.Analytical Questions
 1.	Which industries generate the highest average revenue?
 2.	Which industries dominate by company count?
