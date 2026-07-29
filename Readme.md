@@ -22,7 +22,7 @@ These are:
 - Employees Added – shows the increase in the number of employees compared to the previous period,
 - Employees Growth % - displays the percentage increase in workforce.
 ## 4.Dashboard
-![Dashboard](screenshots/Dashboard.jpg)
+![Dashboard](Dashboard.jpg)
 ## 5.Key Insights
 - The Security industry generated the highest average revenue, followed by Health and Logistics & Transportation. The results indicate that these sectors achieved the strongest financial performance among the industries included in the INC 5000 dataset.
 - Business Products & Services had the highest number of companies. However, the difference between the first, second (Advertising & Marketing), and third (Software) industries was relatively small, with only 3 and 31 fewer companies, respectively. 
