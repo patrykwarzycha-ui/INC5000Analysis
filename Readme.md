@@ -20,6 +20,7 @@ The preparation process included:
 - changing data types.
 
 The cleaned dataset was then loaded into a new Microsoft Excel worksheet.
+
 For the purpose of analysis three new columns were created using Excel formulas. 
 These are: 
 - Employees Growth (yes/no) – indicates whether a company increased its workforce, 
