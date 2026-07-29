@@ -13,6 +13,7 @@ The objective of this project was to clean and transform the dataset using Power
 6.	How is total revenue distributed across U.S. states?
 ## 3.Data Preparation
 The dataset was imported into Power Query editor, where it was reviewed, cleaned, and prepared for further analysis. 
+
 The preparation process included:
 - removing unnecessary columns,
 - promoting headers,
